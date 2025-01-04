@@ -1,8 +1,3 @@
-# Author: Haoran Wang
-# Last Check Date: 2022/05/01
-# This code is for open peer review and citation/metrics detail data in Nature Communication.
-
-
 import time
 import requests
 import re
